@@ -8,3 +8,35 @@ This website offers a modern and user-friendly destination booking service in Ba
 
 https://arcomteknologi.id/travel-tour/
 
+
+## Authors
+
+- [@marcellbudi](https://www.github.com/octokatherine)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
