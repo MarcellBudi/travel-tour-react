@@ -103,9 +103,7 @@ const Footer = () => {
                 {/* TravelloGo */}
               </h1>
               <p className="text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-                facere ab hic accusamus omnis dolor voluptatibus illo, tempore
-                eum tenetur.
+              We are an Indonesia-based travel and tour company, founded with a vision to provide an unforgettable travel experience for every customer.
               </p>
               <br />
               <div className="flex items-center gap-3 ">
