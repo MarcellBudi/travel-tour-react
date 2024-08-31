@@ -1,4 +1,10 @@
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Travel and Tour Web
+
+This website offers a modern and user-friendly destination booking service in Bali and Indonesia. The homepage features a beach view as the background with a clear navigation menu at the top, including options such as "Home," "Best Places," "Destinations," "About," "Blogs," and "Contact." There is a prominent "Book Now" button to make it easy for visitors to make a booking.
+
+
+## Demo
+
+https://arcomteknologi.id/travel-tour/
+
