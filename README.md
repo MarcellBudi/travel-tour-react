@@ -6,7 +6,7 @@ This website offers a modern and user-friendly destination booking service in Ba
 
 ## Demo
 
-https://go-travel-tour.netlify.app/
+[https://go-travel-tour.netlify.app/](https://go-travel-tour.netlify.app/){:target="_blank"}
 
 
 ## Authors
