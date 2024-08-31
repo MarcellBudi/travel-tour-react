@@ -39,4 +39,8 @@ Start the server
 ```bash
   npm run start
 ```
+## Screenshot
+![screencapture-localhost-5173-2024-08-31-15_18_43](https://github.com/user-attachments/assets/8a5ed6d7-6227-47b2-93fe-5b0ec9527b06)
+
+
 
