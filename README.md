@@ -11,7 +11,7 @@ https://arcomteknologi.id/travel-tour/
 
 ## Authors
 
-- [@marcellbudi](https://www.github.com/octokatherine)
+- [@marcellbudi](https://github.com/MarcellBudi)
 
 
 ## Run Locally
